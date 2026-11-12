@@ -1,0 +1,22 @@
+{
+  "selected_attempt": 1,
+  "config": {
+    "hidden_sizes": [
+      256,
+      128
+    ],
+    "activation": "relu",
+    "dropout": 0.2,
+    "batch_norm": false,
+    "optimizer": "adam",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "epochs": 8,
+    "n_train": null
+  },
+  "train_acc": 0.993125,
+  "val_acc": 0.9545,
+  "test_acc": 0.9537,
+  "test_loss": 0.15439652557373046
+}
